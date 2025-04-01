@@ -22,34 +22,6 @@ A web-based application designed to simplify legal document analysis. Users can 
 - **Python, Flask** – Backend API handling requests and responses efficiently
 
 ### AI & Document Processing
-- **OpenAI GPT Models** – AI-powered document analysis and legal chat assistance
+- **WorqHat Models** – AI-powered document analysis and legal chat assistance
 - **PyPDF2** – Extracts and processes text from uploaded PDF files
 - **python-docx** – Generates formatted Word documents for legal drafts
-
-## Installation & Setup
-
-### Prerequisites
-Ensure you have the following installed:
-- Python (>=3.8)
-- pip (Python package manager)
-
-### Steps to Run the Project
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/legal-doc-assistant.git
-   cd legal-doc-assistant
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Start the Flask server:
-   ```sh
-   python app.py
-   ```
-4. Open the application in your browser at `http://127.0.0.1:5000`
-
----
-
-Made with ❤️ by DevBytes
