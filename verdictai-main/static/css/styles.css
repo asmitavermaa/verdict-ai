@@ -1,0 +1,48 @@
+:root {
+  --primary-color: #69a667;
+  --secondary-color: #9A3B3B;
+  --accent-color: #E2C799;
+  --light-bg: #FFF1DC;
+  --dark-bg: #6C3428;
+  --success-color: #A4907C;
+  --warning-color: #C08261;
+  --danger-color: #9A3B3B;
+  --text-color: #6C3428;
+  --light-text: #FFF1DC;
+  --border-radius: 8px;
+  --box-shadow: 0 4px 6px rgba(108, 52, 40, 0.1);
+}
+
+/* Button styles */
+.btn-process {
+  background-color: #7ABA78;
+  border-color: #7ABA78;
+  color: white;
+}
+
+.btn-process:hover {
+  background-color: #69a667;
+  border-color: #69a667;
+}
+
+.btn-classify {
+  background-color: #F1A661;
+  border-color: #F1A661;
+  color: white;
+}
+
+.btn-classify:hover {
+  background-color: #E2C799;
+  border-color: #E2C799;
+}
+
+.btn-view {
+  background-color: #D6D46D;
+  border-color: #D6D46D;
+  color: white;
+}
+
+.btn-view:hover {
+  background-color: #c1bf61;
+  border-color: #c1bf61;
+}

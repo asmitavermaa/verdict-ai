@@ -1,0 +1,10 @@
+flask
+# openai is no longer needed as we're using WorqHat
+python-dotenv
+pypdf2
+python-docx
+requests
+transformers
+torch
+nltk
+scikit-learn
